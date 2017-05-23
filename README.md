@@ -6,7 +6,7 @@ Plugin for Unity game engine to load heightmap from geo data
 
 1. Get source code from this repository by
 
-``` 
+```
 git clone https://github.com/maisvendoo/UnityGeoDataLoader.git
 ```
 
